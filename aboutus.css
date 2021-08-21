@@ -1,0 +1,39 @@
+*
+{
+	margin: 0;
+	padding: 0px;
+
+
+}
+
+body
+
+{
+  font-family: sans-serif;
+}
+
+.navbar-nav  li
+
+{
+  border-style: ridge;
+  padding: 0px 60px;
+  
+
+}
+
+ .navbar-nav a
+ {
+ 	color : blue;
+ }
+
+
+
+
+
+.navbar-brand
+
+{
+	color: white;
+}
+
+
